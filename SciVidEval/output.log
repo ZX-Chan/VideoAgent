@@ -1,0 +1,202 @@
+nohup: 忽略输入
+Loading Perplexity model: ./gpt2-large...
+Model loaded successfully.
+Processing Files:   0%|          | 0/50 [00:00<?, ?it/s]Token indices sequence length is longer than the specified maximum sequence length for this model (3258 > 1024). Running this sequence through the model will result in indexing errors
+Processing Files:   2%|▏         | 1/50 [00:02<01:55,  2.36s/it]Processing Files:   4%|▍         | 2/50 [00:04<01:59,  2.48s/it]Processing Files:   6%|▌         | 3/50 [00:08<02:23,  3.04s/it]Processing Files:   8%|▊         | 4/50 [00:11<02:18,  3.02s/it]Processing Files:  10%|█         | 5/50 [00:14<02:08,  2.86s/it]Processing Files:  12%|█▏        | 6/50 [00:16<01:56,  2.66s/it]Processing Files:  14%|█▍        | 7/50 [00:19<01:53,  2.63s/it]Processing Files:  16%|█▌        | 8/50 [00:22<01:55,  2.75s/it]Processing Files:  18%|█▊        | 9/50 [00:25<02:00,  2.93s/it]Processing Files:  20%|██        | 10/50 [00:27<01:51,  2.80s/it]Processing Files:  22%|██▏       | 11/50 [00:29<01:39,  2.56s/it]Processing Files:  24%|██▍       | 12/50 [00:32<01:38,  2.60s/it]Processing Files:  26%|██▌       | 13/50 [00:34<01:33,  2.51s/it]Processing Files:  28%|██▊       | 14/50 [00:38<01:39,  2.77s/it]Processing Files:  32%|███▏      | 16/50 [00:40<01:08,  2.02s/it]Processing Files:  34%|███▍      | 17/50 [00:43<01:11,  2.16s/it]Processing Files:  36%|███▌      | 18/50 [00:45<01:12,  2.26s/it]Processing Files:  38%|███▊      | 19/50 [00:49<01:19,  2.55s/it]Processing Files:  40%|████      | 20/50 [00:51<01:12,  2.40s/it]Processing Files:  44%|████▍     | 22/50 [00:53<00:53,  1.91s/it]Processing Files:  46%|████▌     | 23/50 [00:56<00:55,  2.05s/it]Processing Files:  48%|████▊     | 24/50 [01:00<01:05,  2.52s/it]Processing Files:  50%|█████     | 25/50 [01:02<01:02,  2.52s/it]Processing Files:  52%|█████▏    | 26/50 [01:06<01:13,  3.06s/it]Processing Files:  54%|█████▍    | 27/50 [01:09<01:04,  2.80s/it]Processing Files:  56%|█████▌    | 28/50 [01:11<01:00,  2.77s/it]Processing Files:  58%|█████▊    | 29/50 [01:14<00:55,  2.64s/it]Processing Files:  60%|██████    | 30/50 [01:18<01:01,  3.10s/it]Processing Files:  62%|██████▏   | 31/50 [01:21<00:58,  3.06s/it]Processing Files:  64%|██████▍   | 32/50 [01:23<00:52,  2.92s/it]Processing Files:  66%|██████▌   | 33/50 [01:27<00:51,  3.05s/it]Processing Files:  68%|██████▊   | 34/50 [01:30<00:48,  3.02s/it]Processing Files:  70%|███████   | 35/50 [01:33<00:44,  3.00s/it]Processing Files:  72%|███████▏  | 36/50 [01:35<00:41,  2.93s/it]Processing Files:  74%|███████▍  | 37/50 [01:39<00:39,  3.02s/it]Processing Files:  76%|███████▌  | 38/50 [01:41<00:35,  2.96s/it]Processing Files:  78%|███████▊  | 39/50 [01:44<00:32,  2.97s/it]Processing Files:  80%|████████  | 40/50 [01:48<00:31,  3.14s/it]Processing Files:  82%|████████▏ | 41/50 [01:51<00:27,  3.01s/it]Processing Files:  84%|████████▍ | 42/50 [01:53<00:21,  2.70s/it]Processing Files:  86%|████████▌ | 43/50 [01:55<00:17,  2.51s/it]Processing Files:  88%|████████▊ | 44/50 [01:57<00:14,  2.48s/it]Processing Files:  90%|█████████ | 45/50 [02:00<00:12,  2.44s/it]Processing Files:  92%|█████████▏| 46/50 [02:02<00:09,  2.42s/it]Processing Files:  96%|█████████▌| 48/50 [02:05<00:04,  2.10s/it]Processing Files:  98%|█████████▊| 49/50 [02:08<00:02,  2.12s/it]Processing Files: 100%|██████████| 50/50 [02:08<00:00,  2.56s/it]
+
+--- Results for ACL2022_01 ---
+  - ROUGE-L F1 (higher is better): 0.2217
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ACL2022_02 ---
+  - ROUGE-L F1 (higher is better): 0.1475
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for ACL2023_01 ---
+  - ROUGE-L F1 (higher is better): 0.1997
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ACL2023_02 ---
+  - ROUGE-L F1 (higher is better): 0.2080
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ACL2023_03 ---
+  - ROUGE-L F1 (higher is better): 0.1645
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ACL2024_01 ---
+  - ROUGE-L F1 (higher is better): 0.1818
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ACL2024_02 ---
+  - ROUGE-L F1 (higher is better): 0.1813
+  - LLM Consistency Score (1-10, higher is better): 7.0
+
+--- Results for ACL2024_03 ---
+  - ROUGE-L F1 (higher is better): 0.2113
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ACL2025_01 ---
+  - ROUGE-L F1 (higher is better): 0.2115
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ACL2025_02 ---
+  - ROUGE-L F1 (higher is better): 0.2331
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for CVPR2022_01 ---
+  - ROUGE-L F1 (higher is better): 0.1578
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for CVPR2022_02 ---
+  - ROUGE-L F1 (higher is better): 0.1811
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for CVPR2023_01 ---
+  - ROUGE-L F1 (higher is better): 0.1860
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for CVPR2023_02 ---
+  - ROUGE-L F1 (higher is better): 0.2324
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+Warning: Corresponding crawled file not found for CVPR2024_01. Skipping.
+  -> Looked for: /data/ssd/Data/Paper2Video/processed/CVPR2024_01/CVPR2024_01_gpt.json
+
+--- Results for CVPR2024_02 ---
+  - ROUGE-L F1 (higher is better): 0.1761
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for CVPR2024_03 ---
+  - ROUGE-L F1 (higher is better): 0.1785
+  - LLM Consistency Score (1-10, higher is better): 7.0
+
+--- Results for CVPR2025_01 ---
+  - ROUGE-L F1 (higher is better): 0.2185
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for CVPR2025_02 ---
+  - ROUGE-L F1 (higher is better): 0.1627
+  - LLM Consistency Score (1-10, higher is better): 7.0
+
+--- Results for CVPR2025_03 ---
+  - ROUGE-L F1 (higher is better): 0.1658
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+Warning: Corresponding crawled file not found for ICLR2022-02. Skipping.
+  -> Looked for: /data/ssd/Data/Paper2Video/processed/ICLR2022-02/ICLR2022-02_gpt.json
+
+--- Results for ICLR2022_01 ---
+  - ROUGE-L F1 (higher is better): 0.1895
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ICLR2023_01 ---
+  - ROUGE-L F1 (higher is better): 0.1636
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for ICLR2023_02 ---
+  - ROUGE-L F1 (higher is better): 0.1450
+  - LLM Consistency Score (1-10, higher is better): 4.0
+
+--- Results for ICLR2023_03 ---
+  - ROUGE-L F1 (higher is better): 0.1857
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for ICLR2024_01 ---
+  - ROUGE-L F1 (higher is better): 0.1507
+  - LLM Consistency Score (1-10, higher is better): 4.0
+
+--- Results for ICLR2024_02 ---
+  - ROUGE-L F1 (higher is better): 0.1704
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ICLR2025_01 ---
+  - ROUGE-L F1 (higher is better): 0.2509
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ICLR2025_02 ---
+  - ROUGE-L F1 (higher is better): 0.1712
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ICLR2025_03 ---
+  - ROUGE-L F1 (higher is better): 0.1443
+  - LLM Consistency Score (1-10, higher is better): 7.0
+
+--- Results for ICML2020_01 ---
+  - ROUGE-L F1 (higher is better): 0.1745
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ICML2020_02 ---
+  - ROUGE-L F1 (higher is better): 0.1519
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ICML2022_01 ---
+  - ROUGE-L F1 (higher is better): 0.1686
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ICML2022_02 ---
+  - ROUGE-L F1 (higher is better): 0.2026
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for ICML2022_03 ---
+  - ROUGE-L F1 (higher is better): 0.1584
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for ICML2023_01 ---
+  - ROUGE-L F1 (higher is better): 0.1215
+  - LLM Consistency Score (1-10, higher is better): 1.0
+
+--- Results for ICML2023_02 ---
+  - ROUGE-L F1 (higher is better): 0.1885
+  - LLM Consistency Score (1-10, higher is better): 7.0
+
+--- Results for ICML2023_03 ---
+  - ROUGE-L F1 (higher is better): 0.1868
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for ICML2024_01 ---
+  - ROUGE-L F1 (higher is better): 0.1628
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for ICML2024_02 ---
+  - ROUGE-L F1 (higher is better): 0.1814
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for NeurIPS2021_01 ---
+  - ROUGE-L F1 (higher is better): 0.1969
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for NeurIPS2021_02 ---
+  - ROUGE-L F1 (higher is better): 0.1810
+  - LLM Consistency Score (1-10, higher is better): 7.0
+
+--- Results for NeurIPS2021_03 ---
+  - ROUGE-L F1 (higher is better): 0.1917
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for NeurIPS2022_01 ---
+  - ROUGE-L F1 (higher is better): 0.2048
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for NeurIPS2022_02 ---
+  - ROUGE-L F1 (higher is better): 0.1831
+  - LLM Consistency Score (1-10, higher is better): 6.0
+
+--- Results for NeurIPS2023_01 ---
+  - ROUGE-L F1 (higher is better): 0.2009
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+Warning: Empty content in one of the files for NeurIPS2023_02. Skipping.
+
+--- Results for NeurIPS2024_01 ---
+  - ROUGE-L F1 (higher is better): 0.1689
+  - LLM Consistency Score (1-10, higher is better): 8.0
+
+--- Results for NeurIPS2024_02 ---
+  - ROUGE-L F1 (higher is better): 0.1577
+  - LLM Consistency Score (1-10, higher is better): 4.0
+
+Warning: Corresponding crawled file not found for NeurIPS2024_03. Skipping.
+  -> Looked for: /data/ssd/Data/Paper2Video/processed/NeurIPS2024_03/NeurIPS2024_03_gpt.json
+
+✅ All processing finished. Results saved to 'evaluation_results.json'

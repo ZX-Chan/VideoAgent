@@ -1,0 +1,38 @@
+{
+    "Human": {
+        "average_ppl": 19.462547462919485,
+        "average_match_accuracy": 0.7813991705935439,
+        "average_consistency_score": 4.7460049878368284,
+        "processed_posters": 46
+    },
+    "Pictory": {
+        "average_ppl": 20.54674373732673,
+        "average_match_accuracy": 0.08719417837064897,
+        "average_consistency_score": 3.2634866790877024,
+        "processed_posters": 9
+    },
+    "LunWenshuo": {
+        "average_ppl": 24.081223726272583,
+        "average_match_accuracy": 0.7387107337748056,
+        "average_consistency_score": 3.7675756136407235,
+        "processed_posters": 48
+    },
+    "4o": {
+        "average_ppl": 320.04529211044314,
+        "average_match_accuracy": 0.7331100566100568,
+        "average_consistency_score": 7.702523254523255,
+        "processed_posters": 50
+    },
+    "Gemini": {
+        "average_ppl": 103.12637753920121,
+        "average_match_accuracy": 0.7924242424242425,
+        "average_consistency_score": 8.036634199134202,
+        "processed_posters": 44
+    },
+    "Qwen": {
+        "average_ppl": 586.3251282601129,
+        "average_match_accuracy": 0.6364512471655329,
+        "average_consistency_score": 7.371201814058956,
+        "processed_posters": 21
+    }
+}

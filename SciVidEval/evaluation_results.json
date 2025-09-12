@@ -1,0 +1,324 @@
+{
+    "ACL2022_01": {
+        "Oral_Perplexity": 17.035688400268555,
+        "Paper_Perplexity": 13.118119239807129,
+        "Generated_Perplexity": 19.647790908813477,
+        "ROUGE-L (F1)": 0.22166246851385388,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ACL2022_02": {
+        "Oral_Perplexity": 22.807666778564453,
+        "Paper_Perplexity": 21.8490047454834,
+        "Generated_Perplexity": 20.735294342041016,
+        "ROUGE-L (F1)": 0.14745683621091926,
+        "LLM_Consistency_Score": 6.0
+    },
+    "ACL2023_01": {
+        "Oral_Perplexity": 12.927523612976074,
+        "Paper_Perplexity": 14.505268096923828,
+        "Generated_Perplexity": 15.408695220947266,
+        "ROUGE-L (F1)": 0.19970193740685543,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ACL2023_02": {
+        "Oral_Perplexity": 49.78440475463867,
+        "Paper_Perplexity": 20.412883758544922,
+        "Generated_Perplexity": 20.519716262817383,
+        "ROUGE-L (F1)": 0.20796758946657662,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ACL2023_03": {
+        "Oral_Perplexity": 15.69559097290039,
+        "Paper_Perplexity": 16.03646469116211,
+        "Generated_Perplexity": 19.483129501342773,
+        "ROUGE-L (F1)": 0.16453900709219857,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ACL2024_01": {
+        "Oral_Perplexity": 27.251115798950195,
+        "Paper_Perplexity": 22.17184066772461,
+        "Generated_Perplexity": 13.90634536743164,
+        "ROUGE-L (F1)": 0.18181818181818182,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ACL2024_02": {
+        "Oral_Perplexity": 26.684099197387695,
+        "Paper_Perplexity": 17.526262283325195,
+        "Generated_Perplexity": 15.205801963806152,
+        "ROUGE-L (F1)": 0.18132975151108124,
+        "LLM_Consistency_Score": 7.0
+    },
+    "ACL2024_03": {
+        "Oral_Perplexity": 23.106266021728516,
+        "Paper_Perplexity": 18.6019229888916,
+        "Generated_Perplexity": 15.932808876037598,
+        "ROUGE-L (F1)": 0.2113022113022113,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ACL2025_01": {
+        "Oral_Perplexity": 28.390050888061523,
+        "Paper_Perplexity": 23.046714782714844,
+        "Generated_Perplexity": 29.000398635864258,
+        "ROUGE-L (F1)": 0.21145374449339208,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ACL2025_02": {
+        "Oral_Perplexity": 24.109230041503906,
+        "Paper_Perplexity": 18.896045684814453,
+        "Generated_Perplexity": 16.892314910888672,
+        "ROUGE-L (F1)": 0.23313446535107846,
+        "LLM_Consistency_Score": 8.0
+    },
+    "CVPR2022_01": {
+        "Oral_Perplexity": 25.980758666992188,
+        "Paper_Perplexity": 23.88494300842285,
+        "Generated_Perplexity": 18.782161712646484,
+        "ROUGE-L (F1)": 0.15780730897009967,
+        "LLM_Consistency_Score": 8.0
+    },
+    "CVPR2022_02": {
+        "Oral_Perplexity": 21.073991775512695,
+        "Paper_Perplexity": 19.360143661499023,
+        "Generated_Perplexity": 14.349722862243652,
+        "ROUGE-L (F1)": 0.1811023622047244,
+        "LLM_Consistency_Score": 6.0
+    },
+    "CVPR2023_01": {
+        "Oral_Perplexity": 20.640941619873047,
+        "Paper_Perplexity": 22.319272994995117,
+        "Generated_Perplexity": 25.424644470214844,
+        "ROUGE-L (F1)": 0.18599033816425123,
+        "LLM_Consistency_Score": 6.0
+    },
+    "CVPR2023_02": {
+        "Oral_Perplexity": 15.978930473327637,
+        "Paper_Perplexity": 19.724462509155273,
+        "Generated_Perplexity": 11.158796310424805,
+        "ROUGE-L (F1)": 0.23238095238095238,
+        "LLM_Consistency_Score": 8.0
+    },
+    "CVPR2024_02": {
+        "Oral_Perplexity": 19.723310470581055,
+        "Paper_Perplexity": 23.006587982177734,
+        "Generated_Perplexity": 20.081222534179688,
+        "ROUGE-L (F1)": 0.17605177993527507,
+        "LLM_Consistency_Score": 8.0
+    },
+    "CVPR2024_03": {
+        "Oral_Perplexity": 22.260421752929688,
+        "Paper_Perplexity": 15.15600299835205,
+        "Generated_Perplexity": 20.565338134765625,
+        "ROUGE-L (F1)": 0.17851239669421487,
+        "LLM_Consistency_Score": 7.0
+    },
+    "CVPR2025_01": {
+        "Oral_Perplexity": 18.619375228881836,
+        "Paper_Perplexity": 15.814009666442871,
+        "Generated_Perplexity": 17.7111873626709,
+        "ROUGE-L (F1)": 0.21849648458626283,
+        "LLM_Consistency_Score": 8.0
+    },
+    "CVPR2025_02": {
+        "Oral_Perplexity": 28.98100471496582,
+        "Paper_Perplexity": 25.45192527770996,
+        "Generated_Perplexity": 32.60893249511719,
+        "ROUGE-L (F1)": 0.1626794258373206,
+        "LLM_Consistency_Score": 7.0
+    },
+    "CVPR2025_03": {
+        "Oral_Perplexity": 22.05506134033203,
+        "Paper_Perplexity": 18.585613250732422,
+        "Generated_Perplexity": 23.62828254699707,
+        "ROUGE-L (F1)": 0.1657608695652174,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICLR2022_01": {
+        "Oral_Perplexity": 18.523658752441406,
+        "Paper_Perplexity": 18.857696533203125,
+        "Generated_Perplexity": 22.48035430908203,
+        "ROUGE-L (F1)": 0.18950930626057527,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICLR2023_01": {
+        "Oral_Perplexity": 17.964269638061523,
+        "Paper_Perplexity": 21.623188018798828,
+        "Generated_Perplexity": 19.7375545501709,
+        "ROUGE-L (F1)": 0.16359163591635917,
+        "LLM_Consistency_Score": 6.0
+    },
+    "ICLR2023_02": {
+        "Oral_Perplexity": 40.66267395019531,
+        "Paper_Perplexity": 19.961181640625,
+        "Generated_Perplexity": 28.953062057495117,
+        "ROUGE-L (F1)": 0.14499758337361043,
+        "LLM_Consistency_Score": 4.0
+    },
+    "ICLR2023_03": {
+        "Oral_Perplexity": 20.9576416015625,
+        "Paper_Perplexity": 14.67348861694336,
+        "Generated_Perplexity": 17.629255294799805,
+        "ROUGE-L (F1)": 0.1856839121190645,
+        "LLM_Consistency_Score": 6.0
+    },
+    "ICLR2024_01": {
+        "Oral_Perplexity": 26.522987365722656,
+        "Paper_Perplexity": 4.239523410797119,
+        "Generated_Perplexity": 24.303884506225586,
+        "ROUGE-L (F1)": 0.1507462686567164,
+        "LLM_Consistency_Score": 4.0
+    },
+    "ICLR2024_02": {
+        "Oral_Perplexity": 24.747299194335938,
+        "Paper_Perplexity": 22.28815460205078,
+        "Generated_Perplexity": 18.099071502685547,
+        "ROUGE-L (F1)": 0.170355466130114,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICLR2025_01": {
+        "Oral_Perplexity": 22.069988250732422,
+        "Paper_Perplexity": 19.46458625793457,
+        "Generated_Perplexity": 25.41864013671875,
+        "ROUGE-L (F1)": 0.2509433962264151,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICLR2025_02": {
+        "Oral_Perplexity": 22.72031021118164,
+        "Paper_Perplexity": 17.641155242919922,
+        "Generated_Perplexity": 13.853256225585938,
+        "ROUGE-L (F1)": 0.171176840780365,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICLR2025_03": {
+        "Oral_Perplexity": 15.990089416503906,
+        "Paper_Perplexity": 2.7301042079925537,
+        "Generated_Perplexity": 16.092670440673828,
+        "ROUGE-L (F1)": 0.14434523809523808,
+        "LLM_Consistency_Score": 7.0
+    },
+    "ICML2020_01": {
+        "Oral_Perplexity": 28.079574584960938,
+        "Paper_Perplexity": 12.447611808776855,
+        "Generated_Perplexity": 28.319719314575195,
+        "ROUGE-L (F1)": 0.17450315075133302,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICML2020_02": {
+        "Oral_Perplexity": 10.947368621826172,
+        "Paper_Perplexity": 11.577535629272461,
+        "Generated_Perplexity": 15.975574493408203,
+        "ROUGE-L (F1)": 0.15185601799775028,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICML2022_01": {
+        "Oral_Perplexity": 24.655851364135742,
+        "Paper_Perplexity": 15.814793586730957,
+        "Generated_Perplexity": 22.42998695373535,
+        "ROUGE-L (F1)": 0.16862988220706757,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICML2022_02": {
+        "Oral_Perplexity": 19.8772029876709,
+        "Paper_Perplexity": 13.1078519821167,
+        "Generated_Perplexity": 18.659801483154297,
+        "ROUGE-L (F1)": 0.2025931928687196,
+        "LLM_Consistency_Score": 6.0
+    },
+    "ICML2022_03": {
+        "Oral_Perplexity": 38.713687896728516,
+        "Paper_Perplexity": 18.21331787109375,
+        "Generated_Perplexity": 21.49474334716797,
+        "ROUGE-L (F1)": 0.15836526181353766,
+        "LLM_Consistency_Score": 6.0
+    },
+    "ICML2023_01": {
+        "Oral_Perplexity": 22.087480545043945,
+        "Paper_Perplexity": 16.949382781982422,
+        "Generated_Perplexity": 24.205615997314453,
+        "ROUGE-L (F1)": 0.12149102623101704,
+        "LLM_Consistency_Score": 1.0
+    },
+    "ICML2023_02": {
+        "Oral_Perplexity": 18.07747459411621,
+        "Paper_Perplexity": 15.802423477172852,
+        "Generated_Perplexity": 18.073781967163086,
+        "ROUGE-L (F1)": 0.18852459016393439,
+        "LLM_Consistency_Score": 7.0
+    },
+    "ICML2023_03": {
+        "Oral_Perplexity": 25.09446144104004,
+        "Paper_Perplexity": 12.095356941223145,
+        "Generated_Perplexity": 20.546722412109375,
+        "ROUGE-L (F1)": 0.18680738786279683,
+        "LLM_Consistency_Score": 8.0
+    },
+    "ICML2024_01": {
+        "Oral_Perplexity": 19.294921875,
+        "Paper_Perplexity": 22.441043853759766,
+        "Generated_Perplexity": 22.768709182739258,
+        "ROUGE-L (F1)": 0.16277258566978195,
+        "LLM_Consistency_Score": 6.0
+    },
+    "ICML2024_02": {
+        "Oral_Perplexity": 23.024784088134766,
+        "Paper_Perplexity": 15.475122451782227,
+        "Generated_Perplexity": 18.28437042236328,
+        "ROUGE-L (F1)": 0.18138424821002386,
+        "LLM_Consistency_Score": 6.0
+    },
+    "NeurIPS2021_01": {
+        "Oral_Perplexity": 18.011823654174805,
+        "Paper_Perplexity": 23.085512161254883,
+        "Generated_Perplexity": 16.425613403320312,
+        "ROUGE-L (F1)": 0.19689119170984454,
+        "LLM_Consistency_Score": 8.0
+    },
+    "NeurIPS2021_02": {
+        "Oral_Perplexity": 41.92234802246094,
+        "Paper_Perplexity": 27.5062313079834,
+        "Generated_Perplexity": 27.18788719177246,
+        "ROUGE-L (F1)": 0.1810406272273699,
+        "LLM_Consistency_Score": 7.0
+    },
+    "NeurIPS2021_03": {
+        "Oral_Perplexity": 22.764488220214844,
+        "Paper_Perplexity": 20.224853515625,
+        "Generated_Perplexity": 19.472429275512695,
+        "ROUGE-L (F1)": 0.19167904903417535,
+        "LLM_Consistency_Score": 8.0
+    },
+    "NeurIPS2022_01": {
+        "Oral_Perplexity": 19.873401641845703,
+        "Paper_Perplexity": 17.148345947265625,
+        "Generated_Perplexity": 17.293371200561523,
+        "ROUGE-L (F1)": 0.20484429065743942,
+        "LLM_Consistency_Score": 8.0
+    },
+    "NeurIPS2022_02": {
+        "Oral_Perplexity": 16.861669540405273,
+        "Paper_Perplexity": 14.479215621948242,
+        "Generated_Perplexity": 17.312131881713867,
+        "ROUGE-L (F1)": 0.1831290555155011,
+        "LLM_Consistency_Score": 6.0
+    },
+    "NeurIPS2023_01": {
+        "Oral_Perplexity": 29.279464721679688,
+        "Paper_Perplexity": 12.573695182800293,
+        "Generated_Perplexity": 18.0001163482666,
+        "ROUGE-L (F1)": 0.20092165898617512,
+        "LLM_Consistency_Score": 8.0
+    },
+    "NeurIPS2024_01": {
+        "Oral_Perplexity": 27.720849990844727,
+        "Paper_Perplexity": 11.686177253723145,
+        "Generated_Perplexity": 24.482315063476562,
+        "ROUGE-L (F1)": 0.16890801506186123,
+        "LLM_Consistency_Score": 8.0
+    },
+    "NeurIPS2024_02": {
+        "Oral_Perplexity": 41.45547103881836,
+        "Paper_Perplexity": 27.436738967895508,
+        "Generated_Perplexity": 27.263307571411133,
+        "ROUGE-L (F1)": 0.15768115942028985,
+        "LLM_Consistency_Score": 4.0
+    }
+}
