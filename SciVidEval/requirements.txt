@@ -1,0 +1,10 @@
+clip==0.2.0
+cnocr==2.3.1
+funasr==1.2.2
+gradio
+h5py==3.9.0
+numpy==1.24.4
+openai==1.61.1
+Pillow
+scikit_learn==0.24.2
+tqdm==4.67.1
