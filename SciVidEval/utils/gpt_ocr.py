@@ -46,8 +46,8 @@ def ocr_image(args):
 
 
 def main():
-    API_KEY = "***REMOVED***"
-    BASE_URL = "https://kimi.zjytools002.me/v1"
+    API_KEY = "sk"
+    BASE_URL = ""
     MAX_WORKERS = 40
 
     folder_path = Path(".")
@@ -84,3 +84,4 @@ def main():
 
 # if __name__ == "__main__":
 #     main()
+
