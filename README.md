@@ -123,5 +123,4 @@ For questions, suggestions, or collaboration opportunities:
 
 - 📧 Email: [ecoxial2012@outlook.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/ZX-Chan/VideoAgent/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/ZX-Chan/VideoAgent/discussions)
 
