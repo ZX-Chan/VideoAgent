@@ -43,7 +43,6 @@ VideoAgent supports both local deployment (via [vLLM](https://docs.vllm.ai/en/v0
 ### Python Dependencies
 
 ```bash
-git clone https://github.com/your-repo/VideoAgent.git
 cd VideoAgent
 pip install -r requirements.txt
 ```
