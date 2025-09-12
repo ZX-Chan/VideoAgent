@@ -25,9 +25,45 @@
 - [🛠️ Installation](#installation)
 - [⚙️ Configuration](#configuration)
 - [🚀 Quick Start](#quick-start)
+- [📄 SciVidEval Dataset](#dataset)
 
 
 ---
+## 📜 SciVidEval Dataset
+
+This dataset is designed for evaluation.
+
+**Evaluation**: The evaluation scripts and tools can be found in the [VideoAgent/SciVidEval](https://github.com/ZX-Chan/VideoAgent/tree/main/SciVidEval) directory.
+
+**Data Download**:
+* **BaiduYun**: [Link](https://pan.baidu.com/s/1nnR2HbWSsNMAR2_i6ZOssQ?pwd=kezv)
+* **Google Drive**: [Link](https://drive.google.com/file/d/1J8pUAOWlOo55fklxQ3VkcJukIQSBPjJi/view?usp=drive_link)
+
+**Folder Structure**:
+```
+SciVidEval/
+├── videos/
+│   └── ACL2022_01.mp4 
+│   └── ...
+├── papers/
+│   └── ACL2022_01.pdf
+│   └── ...
+├── processed/
+│   └── ACL2022_01/
+│       ├── audio/
+│       ├── frame/
+│       ├── ACL2022_01_asr.json
+│       ├── ACL2022_01_ocr.json
+│       ├── ACL2022_01_timestamps.json
+│       ├── ACL2022_01_gpt.json
+│       ├── pipeline_log.txt
+│       └── state.json
+└── (other video/paper pairs)
+
+```
+
+
+
 
 ## 🛠️ Installation
 
