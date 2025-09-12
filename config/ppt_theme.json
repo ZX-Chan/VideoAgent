@@ -1,0 +1,53 @@
+{
+  "theme": {
+    "title": {
+      "text_color": [128, 0, 128],
+      "fill_color": [47, 85, 151],
+      "font_size": 48,
+      "font_family": "Arial",
+      "font_weight": "bold"
+    },
+    "subtitle": {
+      "text_color": [128, 0, 128],
+      "fill_color": [47, 85, 151],
+      "font_size": 26,
+      "font_family": "Arial"
+    },
+    "content": {
+      "text_color": [128, 0, 128],
+      "fill_color": [255, 255, 255],
+      "font_size": 24,
+      "font_family": "Calibri",
+      "bullet_color": [47, 85, 151]
+    },
+    "background": {
+      "image_path": null,
+      "color": [240, 240, 240],
+      "gradient": {
+        "enabled": false,
+        "start_color": [255, 255, 255],
+        "end_color": [240, 240, 240]
+      }
+    },
+    "layout": {
+      "panel_visible": true,
+      "textbox_visible": false,
+      "figure_visible": false,
+      "panel_theme": {
+        "color": [47, 85, 151],
+        "thickness": 5,
+        "line_style": "solid"
+      },
+      "margins": {
+        "left": 1.0,
+        "right": 1.0,
+        "top": 0.4,
+        "bottom": 0.4
+      }
+    },
+    "slide_dimensions": {
+      "width_inches": 16,
+      "height_inches": 9
+    }
+  }
+} 

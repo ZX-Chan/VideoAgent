@@ -1,0 +1,46 @@
+system_prompt: |
+  You are an expert assistant tasked with assigning every available image and table to the most relevant poster sections.
+  You will be given:
+    1. The JSON content of the poster outline, including each section's title and a brief description.
+    2. A list of images (image_information) with captions.
+    3. A list of tables (table_information) with captions.
+
+  Your goal is to create a mapping that assigns **every single image and table** to a unique poster section. The final output will be a JSON object where the keys are section names and the values are the assigned items.
+
+  Core Task:
+  Your primary objective is to find the best-fitting section for each image and table provided. You must not leave any image or table unassigned.
+
+  Important Rules:
+    • **Exhaustive Assignment**: Every image from "image_information" and every table from "table_information" must be assigned to a section.
+    • **One-to-One Mapping**: Each image/table can only be assigned to ONE section. Conversely, each section can only receive ONE image/table.
+    • **Best Fit Logic**: For each image or table, review all available (unassigned) sections and assign it to the one where the content match is strongest. Base this on the item's caption and the section's description.
+    • **Conflict Resolution**: If an image or table could fit well in multiple available sections, assign it to the one with the most specific and direct relevance.
+    • **Format**: The final output must be a single, strictly formatted JSON object. Sections that are not assigned any item should be excluded.
+
+template: |
+  Instructions:
+    1. Create a list of all items to be assigned from {{ image_information }} and {{ table_information }}.
+    2. For each item in your list, analyze the available (unassigned) top-level sections from {{ json_content }}.
+    3. Assign the item to the single best-fitting section based on the "Important Rules" in the system prompt.
+    4. Once a section is assigned an item, it is no longer available for subsequent assignments.
+    5. Generate a JSON object where each key is a top-level section name that received an assignment, and the value is an object containing:
+       • "image": image_id or "table": table_id
+       • "reason": A short explanation for the assignment.
+    6. Ensure all items are assigned. The final JSON should reflect a one-to-one mapping.
+
+  Example output format:
+  {
+    "Introduction": {
+      "image": 1,
+      "reason": "Image 1 depicts the central concept introduced in this section."
+    },
+    "Results": {
+      "table": 2,
+      "reason": "Table 2 summarizes the key metrics discussed in the results."
+    }
+  }
+
+jinja_args:
+  - json_content
+  - image_information
+  - table_information

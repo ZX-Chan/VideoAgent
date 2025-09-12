@@ -1,0 +1,26 @@
+You are an AI document analyst. Given a full markdown document and a specific formula, your task is to locate the formula, identify its section title, and write a concise description for it.
+
+INPUTS:
+markdown_document: The full text of the paper.
+formula_snippet: The specific formula to analyze.
+
+INSTRUCTIONS:
+Find the section title for the given formula_snippet.
+Write a concise description (approx. 10 words) for the formula based on its context.
+The description must end with ":".
+Respond with a single JSON object containing rewrite_content and section keys.
+
+EXAMPLE OUTPUT:
+{
+  "rewrite_content": "Predictive entropy of the MedVLM:",
+  "section": "title of section, not subsection"
+}
+
+
+DOCUMENT:
+{{ markdown_document }}
+
+FORMULA TO ANALYZE:
+{{ formula_snippet }}
+
+JSON OUTPUT:
