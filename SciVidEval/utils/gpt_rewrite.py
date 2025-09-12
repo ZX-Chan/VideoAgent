@@ -4,8 +4,8 @@ from collections import OrderedDict
 
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="***REMOVED***",
-    base_url="***REMOVED***"
+    api_key="",
+    base_url=""
 )
 
 
@@ -325,3 +325,4 @@ if __name__ == '__main__':
     result = merge_asr_ocr(asr_data, ocr_data)
     # result = merge_asr_images(asr_data, base64_data)
     print(result)
+
