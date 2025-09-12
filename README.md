@@ -1,4 +1,4 @@
-# 🎬 VideoAgent: AI-Powered Academic Paper to Video Pipeline
+# 🎬 VideoAgent: Personalized Synthesis of Scientific Videos
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
@@ -8,6 +8,7 @@
 </p>
 
 **VideoAgent** is an intelligent multi-agent system that transforms academic papers into engaging video presentations with automated narration, dynamic animations, and professional slide generation.
+<img width="1831" height="604" alt="image" src="https://github.com/user-attachments/assets/356aa64f-c557-452b-9459-e77b4fafeed7" />
 
 ## ✨ Key Features
 
