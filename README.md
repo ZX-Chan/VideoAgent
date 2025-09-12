@@ -52,9 +52,6 @@ SciVidEval/
 │   └── ACL2022_01/
 │       ├── audio/
 │       ├── frame/
-│       ├── ACL2022_01_asr.json
-│       ├── ACL2022_01_ocr.json
-│       ├── ACL2022_01_timestamps.json
 │       ├── ACL2022_01_gpt.json
 │       ├── pipeline_log.txt
 │       └── state.json
@@ -152,6 +149,7 @@ We extend our gratitude to:
 - [🎬 Manim](https://github.com/3b1b/manim) - Mathematical animations
 - [🎤 OpenAI](https://openai.com/) - Text-to-speech and language models
 - [⚡ vLLM](https://github.com/vllm-project/vllm) - High-performance LLM serving
+- [📄 Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) - Our work is based on this incredible project.
 
 ## 📧 Contact
 
@@ -160,3 +158,7 @@ For questions, suggestions, or collaboration opportunities:
 - 📧 Email: [ecoxial2012@outlook.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/ZX-Chan/VideoAgent/issues)
 
+## 📜 Citation
+```
+
+```
