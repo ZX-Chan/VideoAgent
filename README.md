@@ -1,7 +1,7 @@
 # 🎬 VideoAgent: Personalized Synthesis of Scientific Videos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/AI-Multi--Agent-orange.svg" alt="AI Multi-Agent">
   <img src="https://img.shields.io/badge/Framework-CAMEL-red.svg" alt="CAMEL Framework">
@@ -35,7 +35,7 @@ VideoAgent supports both local deployment (via [vLLM](https://docs.vllm.ai/en/v0
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.12
 - CUDA-compatible GPU (for local models)
 - LibreOffice for PPT processing
 - FFmpeg for video generation
