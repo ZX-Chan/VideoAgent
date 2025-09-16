@@ -160,5 +160,13 @@ For questions, suggestions, or collaboration opportunities:
 
 ## 📜 Citation
 ```
-
+@misc{liang2025videoagentpersonalizedsynthesisscientific,
+      title={VideoAgent: Personalized Synthesis of Scientific Videos}, 
+      author={Xiao Liang and Bangxin Li and Zixuan Chen and Hanyue Zheng and Zhi Ma and Di Wang and Cong Tian and Quan Wang},
+      year={2025},
+      eprint={2509.11253},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.11253}, 
+}
 ```
